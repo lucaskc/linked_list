@@ -1,0 +1,27 @@
+{
+  "name": "linked_list",
+  "version": "1.0.0",
+  "description": "My Linked List implementation",
+  "main": "linked_list",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node linked_list.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaskc/linked_list.git"
+  },
+  "keywords": [
+    "javascript",
+    "linked",
+    "list",
+    "data",
+    "structure"
+  ],
+  "author": "Lucas Crocomo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucaskc/linked_list/issues"
+  },
+  "homepage": "https://github.com/lucaskc/linked_list#readme"
+}
